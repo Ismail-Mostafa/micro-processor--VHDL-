@@ -1,0 +1,30 @@
+m255
+13
+cModel Technology
+dE:\Arab tech\Projects 2012\micro processor (VHDL)\processor
+Einstructionmem
+w1354528636
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dE:\Arab tech\Projects 2012\micro processor (VHDL)\processor
+FE:/Arab tech/Projects 2012/micro processor (VHDL)/processor/Instructionmemory.vhd
+l0
+L6
+VgR_5`nRB9;W^KQiLI9:I93
+OE;C;6.2b;35
+32
+o-work work
+tExplicit 1
+Ainstruction_memorya
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work instructionmem gR_5`nRB9;W^KQiLI9:I93
+l19
+L14
+V0X:76ib4<fUL<>1TE6OQl0
+OE;C;6.2b;35
+32
+M2 ieee std_logic_1164
+M1 ieee numeric_std
+o-work work
+tExplicit 1
